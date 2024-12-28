@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Audi Q7",
+        "type": "SUV",
+        "price": "80000",
+        "image": "https:\/\/media.audi.com\/is\/image\/audi\/nemo\/sea\/bn\/models\/q7\/q7\/my-2022\/nemo-derivate-startpage\/parallax-teaser\/3840x4000-living-large.jpg?auto=webp&width=1920"
+    },
+    {
+        "name": "Audi A3",
+        "type": "Sedan",
+        "price": "75000",
+        "image": "https:\/\/media.audi.com\/is\/image\/audi\/nemo\/models\/a3\/a3-limousine\/my-2022\/NeMo-Derivate-Startpage\/stage\/A3_2020_1018.jpg?width=1920"
+    },
+    {
+        "name": "Audi Q5",
+        "type": "Sportsback SUV",
+        "price": "95000",
+        "image": "https:\/\/media.audi.com\/is\/image\/audi\/nemo\/models\/q5\/q5-sportback\/my-2022\/NeMo-Derivate-Startpage\/stage-large-image\/q5_2020_2189-xl.jpg?width=1920"
+    },
+    {
+        "name": "2025 Corolla",
+        "type": "Sedan",
+        "price": "22175",
+        "image": "https:\/\/tmna.aemassets.toyota.com\/is\/image\/toyota\/toyota\/jellies\/max\/2025\/corolla\/fx\/1870\/2ye\/36\/5.png?fmt=png-alpha&wid=930&qlt=90"
+    }
+]
